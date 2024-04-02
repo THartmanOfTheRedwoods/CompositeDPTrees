@@ -23,3 +23,5 @@ This repo illustrates how to write a Binary Search Tree utilizing the Composite 
 <video width="100%" loop muted src="BinaryTree.mp4" controls>
 Your browser does not support the video tag.
 </video>
+
+[Binary Tree In Action Video](BinaryTree.mp4)
