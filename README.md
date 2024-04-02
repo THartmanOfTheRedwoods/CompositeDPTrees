@@ -20,8 +20,4 @@ This repo illustrates how to write a Binary Search Tree utilizing the Composite 
     * This controller utilizes [BinaryTreeConfiguration](src/main/java/edu/redwoods/cis18/springboot/model/BinaryTreeConfiguration.java) and the **@Component** annotation on [BinaryTree](src/main/java/model/BinaryTree.java) to create a **Singleton bean** named **binaryTree** for the controller to manipulate.
 * [UniqueNameGenerator](src/main/java/edu/redwoods/cis18/springboot/helper/UniqueNameGenerator.java): This class contains a static helper function simply used to generate unique names for the Mermaid graph created by the **binaryTree* bean.
 
-<video width="100%" loop muted src="BinaryTree.mp4" controls>
-Your browser does not support the video tag.
-</video>
-
-[Binary Tree In Action Video](BinaryTree.mp4)
+https://github.com/THartmanOfTheRedwoods/CompositeDPTrees/assets/100978684/60e5cc87-1fb9-453b-841d-f5ac33b71c5a
